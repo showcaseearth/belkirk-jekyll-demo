@@ -8,3 +8,5 @@ fields:
   config:
     required: false
   label: title
+pages:
+- blogdirectory/test.md
