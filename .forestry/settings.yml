@@ -7,7 +7,6 @@ sections:
 - type: document
   path: blog
   label: blog
-  match: "**/*"
 - type: heading
   label: Content2
 - type: jekyll-posts
